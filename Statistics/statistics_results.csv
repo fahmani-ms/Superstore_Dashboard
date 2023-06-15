@@ -1,2 +1,1 @@
-The number of orders for discounted goods,Number of orders for goods without discount,hypothesis,t_statistic,p_value,alpha,result
-21567,28103,The average quantity of discounted orders is same to the average quantity of non-discounted orders.,8.392667163653618,4.875845453960074e-17,0.05,Reject the null hypothesis.
+No. Discounted,No. Without Discount,hypothesis,t_statistic,p_value,alpha,result
